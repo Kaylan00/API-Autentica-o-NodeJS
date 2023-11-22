@@ -1,4 +1,4 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Logo Node.js" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Logo Node.js" width="200" />
 Uma api de autenticação com login, resgitro de usuário e criando token para cada usuário, feita com NodeJs puro!
 Para testar a API bastar baixar o postman e seguir as regras descritas:
 
