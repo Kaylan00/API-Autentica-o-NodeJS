@@ -1,4 +1,4 @@
-
+<div style="text-align: center;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Logo Node.js" width="200" />
 Uma api de autenticação com login, resgitro de usuário e criando token para cada usuário, feita com NodeJs puro!
 Para testar a API bastar baixar o postman e seguir as regras descritas:
@@ -19,3 +19,4 @@ O metodo post serve nada mais para criar um token para verificar se o usuário e
   <li>O nome de usuário e o token de acesso são exibidos na resposta da verificação de usuário por motivos de teste. Em um ambiente de produção, esses dados devem ser criptografados.</li>
   <li>Em breve terá mais atualizações como por exemplo, o usuario podera trocar de senha ou nome de usuario, o dono da conta podera excluir o dados cadastrados e etc</li>
 </ul>
+</div>
