@@ -17,5 +17,5 @@ O metodo post serve nada mais para criar um token para verificar se o usuário e
 <ul>
   <li>A API não utiliza um banco de dados. Isso a torna mais flexível, pois permite que ela seja usada com qualquer banco de dados.</li>
   <li>O nome de usuário e o token de acesso são exibidos na resposta da verificação de usuário por motivos de teste. Em um ambiente de produção, esses dados devem ser criptografados.</li>
-  <li>Em breve terá mais atualizações como por exemplo, o usuario podera trocar de senha ou nome de usuario, o dono da conta podera excluir o dados cadastrados e etc</li>
+  <li>Em breve terá mais atualizações como por exemplo, o usuario podera trocar de senha ou nome de usuario, o dono da conta podera excluir o dados cadastrados, middleware de Autenticação e etc</li>
 </ul>
