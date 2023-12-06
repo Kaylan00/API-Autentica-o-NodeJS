@@ -8,7 +8,7 @@ Para testar a API bastar baixar o postman e seguir as regras descritas:
 <br>
 <h3>Fazer login de usuário </h3>
 <p>Para fazer login de usuário nessa API e preciso utilizar o metodo POST com a seguinte url, http://localhost:3000/login.
-O metodo post serve nada mais para criar um token para verificar se o usuário e válido!</p>
+O metodo post serve nada mais para criar um token para verificar se o usuário e válido, ênfase que deve usar no header a Authorization e colocar o token como chave</p>
 <br>
 <h3>Fazer verficação/validação de usuário </h3>
 <p>Para verificar se o usuário foi criado com sucesso, basta copiar o token que estará disponivel na saida do metodo login, a url de verificação é, http://localhost:3000/verificar, por fim mostrará o nome de usuário, evitei colocar senha por motivos de privacidade </p>
